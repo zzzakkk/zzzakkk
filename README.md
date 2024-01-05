@@ -58,6 +58,16 @@ _May 17, 2022 – August 30, 2022_
 ### Treasurer | Southwest Soccer Club (Temecula, CA)
 - Managed team info and tournament schedules using advanced Excel skills.
 
+ # Technical Indicator Project
+
+This project demonstrates a simple exponential smoothing technique used for financial analysis. Below are the code and the output visualization.
+
+## Code Snippet
+![Code Snippet](/images/Screen Shot 2024-01-04 at 7.08.38 PM.png)
+
+## Output Visualization
+![Output Visualization](/images/Screen Shot 2024-01-04 at 7.04.02 PM.png)
+
 ## Data Related Projects
 - **Soccer Tournament Program:** Developed models in Excel for managing tournaments.
 - **Company Improvement Project:** Utilized R and SQL for data analysis and spreadsheet management.
