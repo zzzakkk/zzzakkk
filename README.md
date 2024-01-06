@@ -1,72 +1,17 @@
 ### Hi there 👋
-
-<!--
-**zzzakkk/zzzakkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Zak Elbekraoui
-
-- 📞 (951)-973-9036
-- 📧 [e.zak2000@gmail.com](mailto:e.zak2000@gmail.com)
-- 🔗 [LinkedIn](www.linkedin.com/in/zak-elbekraoui)
-- 💻 [GitHub](https://github.com/zzzakkk/Zakscodingprojects)
-
-## Education
-**California Polytechnic State University, San Luis Obispo, CA**  
-_Bachelor of Science in Business Administration_  
-_Concentration in Quantitative Analysis_  
-_GPA: 3.33_  
-Graduated: December 2023  
-Orfalea College of Business
-
-### Relevant Courses
-Econometrics, Statistical Analysis, Database Systems in Business, Statistical Programming with R, Computer Apps in Finance, Marketing Analytics and BI, Advanced Econometrics, Accounting, Global Finance, Marketing, Information Systems, Programming for Economics, Statistical Computing, & Stat Inference/Management I & 2
-
-## Work Experience
-
-### Finance Research Analyst | Wall Street Oasis (Remote)
-_May 17, 2022 – August 30, 2022_
-- Leveraged expertise in data analysis and financial literacy to create compelling written content for SEO.
-- Conducted research and generated financial reports to support company growth strategies.
-
-## Leadership and Involvement
-
-### D1 NCAA Men’s Soccer Athlete (Cal Poly)
-- Starter Center Back at Cal Poly.
-- Elevated to the leadership team in junior year.
-- Contributed to the team's qualification for the Big West Playoffs.
-
-### Volunteer | Community Action Partnership (San Luis Obispo)
-- Prepared meals and assisted people in need.
-
-### Member | Black Excellence Club (Cal Poly)
-- Participated in meetings on improving inclusion and diversity.
-
-### Member | Quantitative Analysis Club (Cal Poly)
-- Developed programs using Python and SQL.
-
-### Treasurer | Southwest Soccer Club (Temecula, CA)
-- Managed team info and tournament schedules using advanced Excel skills.
-
- # Technical Indicator Project
-
-This project demonstrates a simple exponential smoothing technique used for financial analysis. Below are the code and the output visualization.
-
-## Code Snippet
-![Code Snippet](/images/Screen Shot 2024-01-04 at 7.08.38 PM.png)
-
-## Output Visualization
-![Output Visualization](/images/Screen Shot 2024-01-04 at 7.04.02 PM.png)
+<div>
+  <h2>🌟 Welcome to zzzakkk/zzzakkk's Special GitHub Repository! 🌟</h2>
+  <p>Here's a glimpse into my ongoing work and interests:</p>
+  <ul>
+    <li>🔭 <strong>Lab 2 - Exploring Rodents:</strong> Analyzing rodent hindfoot lengths, categorizing them, and visualizing data with ggplot2.</li>
+    <li>🌱 <strong>Salary Data Analysis:</strong> Investigating salary disparities using linear models to understand underlying factors.</li>
+    <li>👯 <strong>Challenge Avocado:</strong> Exploring avocado prices across regions, presented through plots and linear models.</li>
+    <li>🤔 <strong>AutoStore Client Management:</strong> Organizing client orders and details in an AutoStore project.</li>
+  </ul>
+  <p>📫 Reach out to me for collaborations or discussions!</p>
+  <p>😄 Pronouns: [Your Pronouns]</p>
+  <p>⚡ Fun fact: [A fun fact about you]</p>
+</div>
 
 ## Data Related Projects
 - **Soccer Tournament Program:** Developed models in Excel for managing tournaments.
