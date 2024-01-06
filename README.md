@@ -2,15 +2,17 @@
 <h1 align="center">Hi 👋, I'm Zak Elbekraoui</h1>
 <h3 align="center">I am recent graduate at Cal Poly Slo passionate about Data Analytics and currently looking for a job</h3>
 
-- 🔭 I’m currently working on [stock app](https://github.com/zzzakkk/Zakscodingprojects/blob/main/statsapp.R)
+- 🔭 I’m currently working on a stock app that gathers all the most recent news and compares charts to one another [stock app](https://github.com/zzzakkk/Zakscodingprojects/blob/main/statsapp.R)
 
 - 🌱 I’m currently learning **how to develop complex apps**
 
-- 👯 I have completed [https://github.com/zzzakkk/Zakscodingprojects/blob/main/lab2-exploring-rodents-with-ggplot2.qmd](https://github.com/zzzakkk/Zakscodingprojects/blob/main/lab2-exploring-rodents-with-ggplot2.qmd)
+- 👯 I have completed a ggplot that shows the different type of rodents and the difference in weight and what their hind foot length is [rodent ggplots](https://github.com/zzzakkk/Zakscodingprojects/blob/main/lab2-exploring-rodents-with-ggplot2.qmd)
 
-- 🤝 I’m proud of [https://github.com/zzzakkk/Zakscodingprojects/blob/main/3-Forex-Currency-Chart.xlsx](https://github.com/zzzakkk/Zakscodingprojects/blob/main/3-Forex-Currency-Chart.xlsx)
+- 🤝 I’m proud of a forex currency chart that shows a line graph and prices of different pairs [forex currency chart](https://github.com/zzzakkk/Zakscodingprojects/blob/main/3-Forex-Currency-Chart.xlsx)
 
 - 👨‍💻 All of my projects are available at [https://github.com/zzzakkk/Zakscodingprojects](https://github.com/zzzakkk/Zakscodingprojects)
+
+- 📝 My skills [SQL, Python, JMP, PowerPoint, JMP, R, PowerBI (certificate) Power Query, Access, Excel](SQL, Python, JMP, PowerPoint, JMP, R, PowerBI (certificate) Power Query, Access, Excel)
 
 - 💬 Ask me about **python, sql, R, and Excel**
 
@@ -18,7 +20,7 @@
 
 - 📄 Know about my experiences [https://cpslo-my.sharepoint.com/:w:/r/personal/zelbekra_calpoly_edu/Documents/Zak%20Elbekraoui%20resume.docx?d=wbf49d0a47450404fbfcbaeb7cc30c60f&csf=1&web=1&e=naXCDw](https://cpslo-my.sharepoint.com/:w:/r/personal/zelbekra_calpoly_edu/Documents/Zak%20Elbekraoui%20resume.docx?d=wbf49d0a47450404fbfcbaeb7cc30c60f&csf=1&web=1&e=naXCDw)
 
-- ⚡ Cool fact **I played D1 college soccer**
+- ⚡ Fun fact **I know a lot of animal facts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
