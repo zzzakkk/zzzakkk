@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **e.zak2000@gmail.com**
 
-- 📄 Know about my experiences [https://cpslo-my.sharepoint.com/:w:/r/personal/zelbekra_calpoly_edu/Documents/Zak%20Elbekraoui%20resume.docx?d=wbf49d0a47450404fbfcbaeb7cc30c60f&csf=1&web=1&e=gAi5BV](https://cpslo-my.sharepoint.com/:w:/r/personal/zelbekra_calpoly_edu/Documents/Zak%20Elbekraoui%20resume.docx?d=wbf49d0a47450404fbfcbaeb7cc30c60f&csf=1&web=1&e=gAi5BV)
+- 📄 Know about my experiences [https://cpslo-my.sharepoint.com/:w:/r/personal/zelbekra_calpoly_edu/Documents/Zak%20Elbekraoui%20resume.docx?d=wbf49d0a47450404fbfcbaeb7cc30c60f&csf=1&web=1&e=naXCDw](https://cpslo-my.sharepoint.com/:w:/r/personal/zelbekra_calpoly_edu/Documents/Zak%20Elbekraoui%20resume.docx?d=wbf49d0a47450404fbfcbaeb7cc30c60f&csf=1&web=1&e=naXCDw)
 
-- ⚡ Fun fact **I know a lot of animal facts**
+- ⚡ Cool fact **I played D1 college soccer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
